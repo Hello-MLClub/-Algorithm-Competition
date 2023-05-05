@@ -4,11 +4,15 @@
 
 你可能会问为什么是baseline，而不是获胜者的代码分享？相比于获胜者的代码baseline代码都比较简单，容易整理和学习；其次baseline代码更加实用和简洁，适合入门学习。
 
-## 竞赛分享
+## 技术交流
 
-每个比赛的详细分享请见[competition文件夹](https://github.com/datawhalechina/competition-baseline/tree/master/competition)；
+**微信公众号：机器学习社区**
+![image](https://user-images.githubusercontent.com/76510785/236363440-23438e49-261e-4749-b0d9-38233239ee51.png)
 
-如果本仓库访问速度慢，可以访问国内备份：https://gitee.com/coggle/competition-baseline
+**知识星球**
+前沿技术资讯、算法技术交流、求职内推、算法竞赛、职场面试经验交流(校招、社招、实习)等，与 10000+来自港大、北大、清华、中科院、CMU、腾讯、百度、微软等名校名企开发者互动交流~
+![image](https://user-images.githubusercontent.com/76510785/236363531-fc5927eb-fb78-46e5-8b6f-ccde54a42901.png)
+
 
 ---
 
