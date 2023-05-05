@@ -4,14 +4,6 @@
 
 你可能会问为什么是baseline，而不是获胜者的代码分享？相比于获胜者的代码baseline代码都比较简单，容易整理和学习；其次baseline代码更加实用和简洁，适合入门学习。
 
-## 数据竞赛
-
-竞赛日历：http://coggle.club/
-
-最新的竞赛信息和baseline推送，请关注：
-- 竞赛公众号：[**Coggle数据科学**](https://t.zsxq.com/Eyn6EQr)
-- 知乎专栏：[机器学习理论与数据竞赛实战](https://zhuanlan.zhihu.com/DataAI)
-
 ## 竞赛分享
 
 每个比赛的详细分享请见[competition文件夹](https://github.com/datawhalechina/competition-baseline/tree/master/competition)；
@@ -264,13 +256,6 @@ https://docs.qq.com/doc/DV1hFUGpMV1l3eVdV)
 - [Smile整理的竞赛优胜者代码分享](https://github.com/Smilexuhc/Data-Competition-TopSolution)
 - [chizhu开源的高校赛2019 文本点击预测](https://github.com/chizhu/BDC2019)
 
-## 贡献者(按照贡献ID排序)
-
-- [阿水](https://www.zhihu.com/people/finlayliu/)
-- [DOTA](https://www.zhihu.com/people/yuconan/)
-- [Rain](https://www.zhihu.com/people/kingdoms/activities)
-- [鱼遇雨欲语与余](https://www.zhihu.com/people/wang-he-13-93/)
-- [yphacker](https://github.com/yphacker)
 
 ## 协作规范
 
@@ -286,13 +271,4 @@ https://docs.qq.com/doc/DV1hFUGpMV1l3eVdV)
 3. baseline代码只能提供可运行的代码和思路，**请不要提供直接可以提交的结果文件；**
 
 4. 代码提供者应对代码版权和共享权负责；
-
-5. 如果发现Repo存在版权等相关问题，请邮件联系finlayliu@qq.com
   
-## 关注我们
-
-<div align=center><img src="https://cdn.coggle.club/dw_qrcode.jpeg" width = "250" height = "270" alt="Datawhale是一个专注AI领域的开源组织，以“for the learner，和学习者一起成长”为愿景，构建对学习者最有价值的开源学习社区。关注我们，一起学习成长。"></div>
-
-## LICENSE
-
-[GNU General Public License v3.0](https://github.com/datawhalechina/competition-baseline/blob/master/LICENSE)
