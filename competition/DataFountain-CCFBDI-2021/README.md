@@ -20,8 +20,6 @@ https://www.datafountain.cn/competitions/518
 - basline1：[恒哥 Bert 0.682](https://github.com/LogicJake/competition_baselines/tree/master/competitions/2021ccf_aqy)
 - basline2：[强哥 Bert多任务 0.67](https://github.com/China-ChallengeHub/ChallengeHub-Baselines/blob/main/aiqiyi-baseline.ipynb)
 
-![](https://coggle.club/assets/img/coggle_qrcode.jpg)
-
 
 ## 用户上网异常行为分析
 
