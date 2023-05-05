@@ -221,19 +221,19 @@ https://docs.qq.com/doc/DV1hFUGpMV1l3eVdV)
 ### CV类型比赛
 - [“英特尔创新大师杯”深度学习挑战赛 赛道1：通用场景OCR文本识别任务](https://tianchi.aliyun.com/competition/entrance/531902/introduction), OCR比赛, [baseline](https://gitee.com/coggle/tianchi-intel-PaddleOCR)
 - [2021全国数字生态创新大赛-智能算法赛](https://tianchi.aliyun.com/competition/entrance/531860/introduction), 语义分割比赛, [34.5-Unet](https://tianchi.aliyun.com/notebook-ai/detail?postId=169396), [38.5-Unet++](https://github.com/DLLXW/data-science-competition/tree/main/%E5%A4%A9%E6%B1%A0/2021%E5%85%A8%E5%9B%BD%E6%95%B0%E5%AD%97%E7%94%9F%E6%80%81%E5%88%9B%E6%96%B0%E5%A4%A7%E8%B5%9B-%E9%AB%98%E5%88%86%E8%BE%A8%E7%8E%87%E9%81%A5%E6%84%9F%E5%BD%B1%E5%83%8F%E5%88%86%E5%89%B2)
-- [DC竞赛-AI助疫·口罩佩戴检测大赛](https://github.com/datawhalechina/competition-baseline/tree/master/competition/DC%E7%AB%9E%E8%B5%9B-AI%E5%8A%A9%E7%96%AB%C2%B7%E5%8F%A3%E7%BD%A9%E4%BD%A9%E6%88%B4%E6%A3%80%E6%B5%8B%E5%A4%A7%E8%B5%9B), CV类型比赛
-- [Kesci-中国华录杯人群密度检测](https://github.com/datawhalechina/competition-baseline/tree/master/competition/Kesci-%E4%B8%AD%E5%9B%BD%E5%8D%8E%E5%BD%95%E6%9D%AF%E4%BA%BA%E7%BE%A4%E5%AF%86%E5%BA%A6%E6%A3%80%E6%B5%8B), CV类型比赛
-- [天池-心电人机智能大赛心电异常事件预测](https://github.com/datawhalechina/competition-baseline/tree/master/competition/Tianchi-%E5%BF%83%E7%94%B5%E4%BA%BA%E6%9C%BA%E6%99%BA%E8%83%BD%E5%A4%A7%E8%B5%9B%E5%BF%83%E7%94%B5%E5%BC%82%E5%B8%B8%E4%BA%8B%E4%BB%B6%E9%A2%84%E6%B5%8B), CV类型比赛
-- [DataFountain-多人种人脸识别](https://github.com/datawhalechina/competition-baseline/tree/master/competition/DataFountain-%E5%A4%9A%E4%BA%BA%E7%A7%8D%E4%BA%BA%E8%84%B8%E8%AF%86%E5%88%AB), CV类型比赛
-- [DataFountain-基于OCR的身份证要素提取](https://github.com/datawhalechina/competition-baseline/tree/master/competition/DataFountain-%E5%9F%BA%E4%BA%8EOCR%E7%9A%84%E8%BA%AB%E4%BB%BD%E8%AF%81%E8%A6%81%E7%B4%A0%E6%8F%90%E5%8F%96), CV类型比赛
-- [DataFountain-视频版权检测算法](https://github.com/datawhalechina/competition-baseline/tree/master/competition/DataFountain-%E8%A7%86%E9%A2%91%E7%89%88%E6%9D%83%E6%A3%80%E6%B5%8B%E7%AE%97%E6%B3%95)，CV类型比赛
-- [kaggle-quickdraw-doodle-recognition](https://github.com/datawhalechina/competition-baseline/tree/master/competition/kaggle-quickdraw-doodle-recognition)，CV类型比赛
-- [TinyMind人民币面值&冠字号编码识别挑战赛](https://github.com/datawhalechina/competition-baseline/tree/master/competition/TinyMind%E4%BA%BA%E6%B0%91%E5%B8%81%E9%9D%A2%E5%80%BC%26%E5%86%A0%E5%AD%97%E5%8F%B7%E7%BC%96%E7%A0%81%E8%AF%86%E5%88%AB%E6%8C%91%E6%88%98%E8%B5%9B)，CV类型比赛
-- [AI研习社-胸腔X光肺炎检测](https://github.com/datawhalechina/competition-baseline/tree/master/competition/yanxishe-%E8%83%B8%E8%85%94X%E5%85%89%E8%82%BA%E7%82%8E%E6%A3%80%E6%B5%8B)，CV类型比赛
-- [AI研习社-肺炎X光病灶识别](https://github.com/datawhalechina/competition-baseline/tree/master/competition/yanxishe-%E8%82%BA%E7%82%8EX%E5%85%89%E7%97%85%E7%81%B6%E8%AF%86%E5%88%AB)，CV类型比赛
-- [AI研习社-人脸年龄识别](https://github.com/datawhalechina/competition-baseline/tree/master/competition/yanxishe-%E4%BA%BA%E8%84%B8%E5%B9%B4%E9%BE%84%E8%AF%86%E5%88%AB)，CV类型比赛
-- [AI研习社-美食识别挑战（1）：豆腐VS土豆](https://github.com/datawhalechina/competition-baseline/tree/master/competition/yanxishe-%E7%BE%8E%E9%A3%9F%E8%AF%86%E5%88%AB%E6%8C%91%E6%88%98%EF%BC%881%EF%BC%89%EF%BC%9A%E8%B1%86%E8%85%90VS%E5%9C%9F%E8%B1%86)，CV类型比赛
-- [AI研习社-猫脸关键点检测](https://github.com/Hello-MLClub/Algorithm-Competition/tree/master/competition/yanxishe-%E5%96%B5%E8%84%B8%E5%85%B3%E9%94%AE%E7%82%B9%E6%A3%80%E6%B5%8B)，CV类型比赛
+- [DC竞赛-AI助疫·口罩佩戴检测大赛](https://github.com/Hello-MLClub/Algorithm-Competition/tree/main/competition/DC%E7%AB%9E%E8%B5%9B-AI%E5%8A%A9%E7%96%AB%C2%B7%E5%8F%A3%E7%BD%A9%E4%BD%A9%E6%88%B4%E6%A3%80%E6%B5%8B%E5%A4%A7%E8%B5%9B), CV类型比赛
+- [Kesci-中国华录杯人群密度检测](https://github.com/Hello-MLClub/Algorithm-Competition/tree/main/competition/Kesci-%E4%B8%AD%E5%9B%BD%E5%8D%8E%E5%BD%95%E6%9D%AF%E4%BA%BA%E7%BE%A4%E5%AF%86%E5%BA%A6%E6%A3%80%E6%B5%8B), CV类型比赛
+- [天池-心电人机智能大赛心电异常事件预测](https://github.com/Hello-MLClub/Algorithm-Competition/tree/main/competition/Tianchi-%E5%BF%83%E7%94%B5%E4%BA%BA%E6%9C%BA%E6%99%BA%E8%83%BD%E5%A4%A7%E8%B5%9B%E5%BF%83%E7%94%B5%E5%BC%82%E5%B8%B8%E4%BA%8B%E4%BB%B6%E9%A2%84%E6%B5%8B), CV类型比赛
+- [DataFountain-多人种人脸识别](https://github.com/Hello-MLClub/Algorithm-Competition/tree/main/competition/DataFountain-%E5%A4%9A%E4%BA%BA%E7%A7%8D%E4%BA%BA%E8%84%B8%E8%AF%86%E5%88%AB), CV类型比赛
+- [DataFountain-基于OCR的身份证要素提取](https://github.com/Hello-MLClub/Algorithm-Competition/tree/main/competition/DataFountain-%E5%9F%BA%E4%BA%8EOCR%E7%9A%84%E8%BA%AB%E4%BB%BD%E8%AF%81%E8%A6%81%E7%B4%A0%E6%8F%90%E5%8F%96), CV类型比赛
+- [DataFountain-视频版权检测算法](https://github.com/Hello-MLClub/Algorithm-Competition/tree/main/competition/DataFountain-%E8%A7%86%E9%A2%91%E7%89%88%E6%9D%83%E6%A3%80%E6%B5%8B%E7%AE%97%E6%B3%95)，CV类型比赛
+- [kaggle-quickdraw-doodle-recognition](https://github.com/Hello-MLClub/Algorithm-Competition/tree/main/competition/kaggle-quickdraw-doodle-recognition)，CV类型比赛
+- [TinyMind人民币面值&冠字号编码识别挑战赛](https://github.com/Hello-MLClub/Algorithm-Competition/tree/main/competition/TinyMind%E4%BA%BA%E6%B0%91%E5%B8%81%E9%9D%A2%E5%80%BC%26%E5%86%A0%E5%AD%97%E5%8F%B7%E7%BC%96%E7%A0%81%E8%AF%86%E5%88%AB%E6%8C%91%E6%88%98%E8%B5%9B)，CV类型比赛
+- [AI研习社-胸腔X光肺炎检测](https://github.com/Hello-MLClub/Algorithm-Competition/tree/main/competition/yanxishe-%E8%83%B8%E8%85%94X%E5%85%89%E8%82%BA%E7%82%8E%E6%A3%80%E6%B5%8B)，CV类型比赛
+- [AI研习社-肺炎X光病灶识别](https://github.com/Hello-MLClub/Algorithm-Competition/tree/main/competition/yanxishe-%E8%82%BA%E7%82%8EX%E5%85%89%E7%97%85%E7%81%B6%E8%AF%86%E5%88%AB)，CV类型比赛
+- [AI研习社-人脸年龄识别](https://github.com/Hello-MLClub/Algorithm-Competition/tree/main/competition/yanxishe-%E4%BA%BA%E8%84%B8%E5%B9%B4%E9%BE%84%E8%AF%86%E5%88%AB)，CV类型比赛
+- [AI研习社-美食识别挑战（1）：豆腐VS土豆](https://github.com/Hello-MLClub/Algorithm-Competition/tree/main/competition/yanxishe-%E7%BE%8E%E9%A3%9F%E8%AF%86%E5%88%AB%E6%8C%91%E6%88%98%EF%BC%881%EF%BC%89%EF%BC%9A%E8%B1%86%E8%85%90VS%E5%9C%9F%E8%B1%86)，CV类型比赛
+- [AI研习社-猫脸关键点检测](https://github.com/Hello-MLClub/Algorithm-Competition/tree/main/competition/yanxishe-%E5%96%B5%E8%84%B8%E5%85%B3%E9%94%AE%E7%82%B9%E6%A3%80%E6%B5%8B)，CV类型比赛
 
 ---
 
